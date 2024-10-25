@@ -1,6 +1,6 @@
-import Featured from "@/Components/Featured";
+import Featured from "@/Components/FeaturedSection";
 import Footer from "@/Components/Footer";
-import Hero from "@/Components/Hero";
+import Hero from "@/Components/Header";
 import Navbar from "@/Components/Navbar";
 import Recent from "@/Components/RecentSection";
 

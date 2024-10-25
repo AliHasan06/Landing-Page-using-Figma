@@ -1,7 +1,7 @@
 import React from 'react'
 import Image from 'next/image'
 
-const Hero = () => {
+const Header = () => {
   return (
     <div className="bg-[#CFA6A61C] w-full pt-[18vh] pb-[12vh] overflow-hidden text-[#21243D]">
     <div className="h-full flex justify-center flex-col w-[90%] mx-auto">
@@ -31,4 +31,4 @@ const Hero = () => {
   )
 }
 
-export default Hero
+export default Header
