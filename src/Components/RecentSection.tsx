@@ -1,7 +1,8 @@
-import React from 'react'
 
 const Recent = () => {
   return (
+    <>
+    
     <div className="pt-8 pb-14 bg-[#f4e2e2]">
     <div className="w-[68%] flex justify-between m-auto">
         <p className="text-[22px] font-[500] leading-[32px]">Recent Post</p>
@@ -20,6 +21,7 @@ const Recent = () => {
     </div>
   </div>
 </div>
+    </>
   )
 }
 

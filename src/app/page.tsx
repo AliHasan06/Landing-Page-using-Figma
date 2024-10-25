@@ -2,7 +2,7 @@ import Featured from "@/Components/Featured";
 import Footer from "@/Components/Footer";
 import Hero from "@/Components/Hero";
 import Navbar from "@/Components/Navbar";
-import Recent from "@/Components/Recent";
+import Recent from "@/Components/RecentSection";
 
 
 export default function Home() {
